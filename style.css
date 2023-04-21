@@ -1,7 +1,6 @@
 .main 
 {
     margin: 50px;
-    position: absolute;
     padding-bottom: 50px;
     align-items: center;
     padding: 5px;
@@ -9,7 +8,7 @@
     font-size: 30px;
     font-style: inherit;
     color: chocolate;
-    margin-left: 100px;
+    margin-left: 0px;
 }
 .login
 {
@@ -26,7 +25,7 @@
 .navbar 
 {
     border: 2px dotted rgb(55%,30%,55%);
-    border-radius: 30px;
+    border-radius: 10px;
     background-color: aquamarine;
     width: 450px; height: 600px;
 }
